@@ -1,4 +1,4 @@
-package boxing;
+package boxingexample;
 
 public class Autoboxing {
 	public static void main(String[] args) {
